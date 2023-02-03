@@ -1,6 +1,6 @@
-# Pagina do Instagram
+# Instagram Clone
 
-Recriando a pagina inicial do Instagram utilizando HTML e CSS
+Recriando a página inicial do Instagram utilizando HTML e CSS
 
 ## Desafio DIO
 
